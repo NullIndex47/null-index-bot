@@ -1,0 +1,44 @@
+name: Null Index Bot
+
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run bot
+        env:
+          LIVE_MODE: ${{ secrets.LIVE_MODE }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
+          SUBREDDIT_NAME: ${{ secrets.SUBREDDIT_NAME }}
+        run: python bot.py
+
+      - name: Commit state changes
+        run: |
+          git config user.name "null-index-bot"
+          git config user.email "actions@github.com"
+          git add state.json private_log.jsonl || true
+          git diff --cached --quiet || git commit -m "Update bot state"
+          git push
