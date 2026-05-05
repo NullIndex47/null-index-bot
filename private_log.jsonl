@@ -12,3 +12,4 @@
 {"created_at": "2026-05-03T22:09:31.744989+00:00", "title": "202605032209", "level": "HARD", "hidden_message": "fragment 3/4: titles", "next_interval_hours": 6, "next_run_at": "2026-05-04T04:09:31.744856+00:00"}
 {"created_at": "2026-05-04T08:08:51.591587+00:00", "title": "202605040808", "level": "NOISE", "hidden_message": null, "next_interval_hours": 6, "next_run_at": "2026-05-04T14:08:51.591438+00:00"}
 {"created_at": "2026-05-04T16:15:27.093652+00:00", "title": "202605041615", "level": "EASY", "hidden_message": "look closer", "next_interval_hours": 24, "next_run_at": "2026-05-05T16:15:27.093496+00:00"}
+{"created_at": "2026-05-05T18:02:46.643035+00:00", "title": "202605051802", "level": "MEDIUM", "hidden_message": "every fourth line carries one byte", "next_interval_hours": 6, "next_run_at": "2026-05-06T00:02:46.642885+00:00"}
