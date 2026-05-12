@@ -23,3 +23,4 @@
 {"created_at": "2026-05-10T15:33:21.228423+00:00", "title": "202605101533", "level": "HARD", "hidden_message": "fragment 3/5: is", "next_interval_hours": 4, "next_run_at": "2026-05-10T19:33:21.228302+00:00"}
 {"created_at": "2026-05-10T19:46:40.625286+00:00", "title": "202605101946", "level": "HARD", "hidden_message": "fragment 5/5: null", "next_interval_hours": 24, "next_run_at": "2026-05-11T19:46:40.625123+00:00"}
 {"created_at": "2026-05-11T21:55:23.124917+00:00", "title": "202605112155", "level": "EASY", "hidden_message": "look closer", "next_interval_hours": 24, "next_run_at": "2026-05-12T21:55:23.124263+00:00"}
+{"created_at": "2026-05-12T22:38:06.466555+00:00", "title": "202605122238", "level": "NOISE", "hidden_message": null, "next_interval_hours": 4, "next_run_at": "2026-05-13T02:38:06.465907+00:00"}
