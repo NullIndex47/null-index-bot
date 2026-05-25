@@ -38,3 +38,4 @@
 {"created_at": "2026-05-23T11:46:28.374164+00:00", "title": "202605231146", "level": "NOISE", "hidden_message": null, "next_interval_hours": 4, "next_run_at": "2026-05-23T15:46:28.373420+00:00"}
 {"created_at": "2026-05-23T15:47:50.475069+00:00", "title": "202605231547", "level": "EASY", "hidden_message": "look closer", "next_interval_hours": 24, "next_run_at": "2026-05-24T15:47:50.474411+00:00"}
 {"created_at": "2026-05-24T18:14:42.625386+00:00", "title": "202605241814", "level": "EASY", "hidden_message": "one line survived", "next_interval_hours": 6, "next_run_at": "2026-05-25T00:14:42.624347+00:00"}
+{"created_at": "2026-05-25T12:13:02.647461+00:00", "title": "202605251213", "level": "HARD", "hidden_message": "fragment 4/4: in order", "next_interval_hours": 24, "next_run_at": "2026-05-26T12:13:02.646767+00:00"}
