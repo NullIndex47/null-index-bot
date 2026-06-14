@@ -67,3 +67,4 @@
 {"created_at": "2026-06-12T12:27:16.773932+00:00", "title": "202606121227", "level": "MEDIUM", "hidden_message": "combine the dead sectors", "next_interval_hours": 4, "next_run_at": "2026-06-12T16:27:16.773771+00:00"}
 {"created_at": "2026-06-12T19:14:44.070507+00:00", "title": "202606121914", "level": "EASY", "hidden_message": "read backwards", "next_interval_hours": 24, "next_run_at": "2026-06-13T19:14:44.070353+00:00"}
 {"created_at": "2026-06-13T20:22:01.343670+00:00", "title": "202606132022", "level": "NOISE", "hidden_message": null, "next_interval_hours": 24, "next_run_at": "2026-06-14T20:22:01.343511+00:00"}
+{"created_at": "2026-06-14T20:22:17.244274+00:00", "title": "202606142022", "level": "HARD", "hidden_message": "fragment 3/5: is", "next_interval_hours": 4, "next_run_at": "2026-06-15T00:22:17.244107+00:00"}
