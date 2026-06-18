@@ -72,3 +72,4 @@
 {"created_at": "2026-06-16T11:28:52.890910+00:00", "title": "202606161128", "level": "MEDIUM", "hidden_message": "the checksum is lying", "next_interval_hours": 24, "next_run_at": "2026-06-17T11:28:52.890746+00:00"}
 {"created_at": "2026-06-17T13:49:45.721791+00:00", "title": "202606171349", "level": "EASY", "hidden_message": "one line survived", "next_interval_hours": 24, "next_run_at": "2026-06-18T13:49:45.721621+00:00"}
 {"created_at": "2026-06-18T14:16:14.161525+00:00", "title": "202606181416", "level": "HARD", "hidden_message": "fragment 5/5: null", "next_interval_hours": 6, "next_run_at": "2026-06-18T20:16:14.161357+00:00"}
+{"created_at": "2026-06-18T21:25:25.095705+00:00", "title": "202606182125", "level": "NOISE", "hidden_message": null, "next_interval_hours": 4, "next_run_at": "2026-06-19T01:25:25.095543+00:00"}
