@@ -77,3 +77,4 @@
 {"created_at": "2026-06-19T10:53:08.094204+00:00", "title": "202606191053", "level": "EASY", "hidden_message": "the first key is missing", "next_interval_hours": 6, "next_run_at": "2026-06-19T16:53:08.094086+00:00"}
 {"created_at": "2026-06-19T17:23:42.217395+00:00", "title": "202606191723", "level": "EASY", "hidden_message": "one line survived", "next_interval_hours": 24, "next_run_at": "2026-06-20T17:23:42.217241+00:00"}
 {"created_at": "2026-06-20T18:19:55.656483+00:00", "title": "202606201819", "level": "EASY", "hidden_message": "count the silence", "next_interval_hours": 24, "next_run_at": "2026-06-21T18:19:55.656331+00:00"}
+{"created_at": "2026-06-21T19:55:42.818355+00:00", "title": "202606211955", "level": "NOISE", "hidden_message": null, "next_interval_hours": 24, "next_run_at": "2026-06-22T19:55:42.818199+00:00"}
