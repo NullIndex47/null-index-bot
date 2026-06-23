@@ -79,3 +79,4 @@
 {"created_at": "2026-06-20T18:19:55.656483+00:00", "title": "202606201819", "level": "EASY", "hidden_message": "count the silence", "next_interval_hours": 24, "next_run_at": "2026-06-21T18:19:55.656331+00:00"}
 {"created_at": "2026-06-21T19:55:42.818355+00:00", "title": "202606211955", "level": "NOISE", "hidden_message": null, "next_interval_hours": 24, "next_run_at": "2026-06-22T19:55:42.818199+00:00"}
 {"created_at": "2026-06-22T21:09:23.815524+00:00", "title": "202606222109", "level": "HARD", "hidden_message": "fragment 2/5: key", "next_interval_hours": 6, "next_run_at": "2026-06-23T03:09:23.815368+00:00"}
+{"created_at": "2026-06-23T04:14:31.750433+00:00", "title": "202606230414", "level": "MEDIUM", "hidden_message": "the answer was posted before the question", "next_interval_hours": 4, "next_run_at": "2026-06-23T08:14:31.750290+00:00"}
