@@ -83,3 +83,4 @@
 {"created_at": "2026-06-23T08:33:55.504858+00:00", "title": "202606230833", "level": "DEEP", "hidden_message": "post 0047 is not a message it is a key", "next_interval_hours": 6, "next_run_at": "2026-06-23T14:33:55.504676+00:00"}
 {"created_at": "2026-06-23T15:58:13.954740+00:00", "title": "202606231558", "level": "HARD", "hidden_message": "fragment 3/4: titles", "next_interval_hours": 4, "next_run_at": "2026-06-23T19:58:13.954534+00:00"}
 {"created_at": "2026-06-23T20:19:41.904473+00:00", "title": "202606232019", "level": "NOISE", "hidden_message": null, "next_interval_hours": 6, "next_run_at": "2026-06-24T02:19:41.904286+00:00"}
+{"created_at": "2026-06-24T04:19:02.624765+00:00", "title": "202606240419", "level": "MEDIUM", "hidden_message": "do not decode the body first", "next_interval_hours": 24, "next_run_at": "2026-06-25T04:19:02.624606+00:00"}
