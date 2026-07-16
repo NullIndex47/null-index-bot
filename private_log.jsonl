@@ -119,3 +119,4 @@
 {"created_at": "2026-07-15T03:19:16.111031+00:00", "title": "202607150319", "level": "MEDIUM", "hidden_message": "remove what repeats", "next_interval_hours": 6, "next_run_at": "2026-07-15T09:19:16.110883+00:00"}
 {"created_at": "2026-07-15T11:41:40.239809+00:00", "title": "202607151141", "level": "EASY", "hidden_message": "ignore the noise", "next_interval_hours": 4, "next_run_at": "2026-07-15T15:41:40.239638+00:00"}
 {"created_at": "2026-07-15T17:25:06.701356+00:00", "title": "202607151725", "level": "NOISE", "hidden_message": null, "next_interval_hours": 24, "next_run_at": "2026-07-16T17:25:06.701227+00:00"}
+{"created_at": "2026-07-16T18:12:56.082084+00:00", "title": "202607161812", "level": "HARD", "hidden_message": "fragment 3/4: titles", "next_interval_hours": 4, "next_run_at": "2026-07-16T22:12:56.081909+00:00"}
