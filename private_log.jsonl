@@ -180,3 +180,4 @@
 {"created_at": "2026-08-20T06:57:12.246288+00:00", "title": "202608200657", "level": "NOISE", "hidden_message": null, "next_interval_hours": 6, "next_run_at": "2026-08-20T12:57:12.246136+00:00"}
 {"created_at": "2026-08-20T13:03:02.808355+00:00", "title": "202608201303", "level": "NOISE", "hidden_message": null, "next_interval_hours": 6, "next_run_at": "2026-08-20T19:03:02.808229+00:00"}
 {"created_at": "2026-08-20T19:36:43.825321+00:00", "title": "202608201936", "level": "NOISE", "hidden_message": null, "next_interval_hours": 24, "next_run_at": "2026-08-21T19:36:43.825219+00:00"}
+{"created_at": "2026-08-21T20:32:48.186053+00:00", "title": "202608212032", "level": "EASY", "hidden_message": "this is not random", "next_interval_hours": 6, "next_run_at": "2026-08-22T02:32:48.185889+00:00"}
