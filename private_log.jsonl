@@ -188,3 +188,4 @@
 {"created_at": "2026-08-24T16:47:11.758233+00:00", "title": "202608241647", "level": "EASY", "hidden_message": "the first key is missing", "next_interval_hours": 24, "next_run_at": "2026-08-25T16:47:11.758062+00:00"}
 {"created_at": "2026-08-25T17:37:29.688708+00:00", "title": "202608251737", "level": "DEEP", "hidden_message": "the body is noise the title is the cipher", "next_interval_hours": 24, "next_run_at": "2026-08-26T17:37:29.688578+00:00"}
 {"created_at": "2026-08-26T19:11:11.393744+00:00", "title": "202608261911", "level": "MEDIUM", "hidden_message": "the answer was posted before the question", "next_interval_hours": 4, "next_run_at": "2026-08-26T23:11:11.393572+00:00"}
+{"created_at": "2026-08-26T23:18:37.775205+00:00", "title": "202608262318", "level": "EASY", "hidden_message": "the title is part of it", "next_interval_hours": 6, "next_run_at": "2026-08-27T05:18:37.774932+00:00"}
