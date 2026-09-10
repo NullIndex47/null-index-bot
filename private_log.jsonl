@@ -206,3 +206,4 @@
 {"created_at": "2026-09-07T15:46:46.810011+00:00", "title": "202609071546", "level": "EASY", "hidden_message": "look closer", "next_interval_hours": 6, "next_run_at": "2026-09-07T21:46:46.809854+00:00"}
 {"created_at": "2026-09-07T22:44:36.487637+00:00", "title": "202609072244", "level": "MEDIUM", "hidden_message": "only posts ending in 7 contain valid data", "next_interval_hours": 24, "next_run_at": "2026-09-08T22:44:36.487548+00:00"}
 {"created_at": "2026-09-09T00:00:37.369850+00:00", "title": "202609090000", "level": "DEEP", "hidden_message": "the key appears after it is used", "next_interval_hours": 24, "next_run_at": "2026-09-10T00:00:37.369689+00:00"}
+{"created_at": "2026-09-10T00:02:28.193861+00:00", "title": "202609100002", "level": "DEEP", "hidden_message": "post 0047 is not a message it is a key", "next_interval_hours": 24, "next_run_at": "2026-09-11T00:02:28.193722+00:00"}
