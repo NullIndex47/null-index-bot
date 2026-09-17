@@ -216,3 +216,4 @@
 {"created_at": "2026-09-15T14:49:35.356005+00:00", "title": "202609151449", "level": "NOISE", "hidden_message": null, "next_interval_hours": 4, "next_run_at": "2026-09-15T18:49:35.355846+00:00"}
 {"created_at": "2026-09-15T18:52:28.841947+00:00", "title": "202609151852", "level": "NOISE", "hidden_message": null, "next_interval_hours": 24, "next_run_at": "2026-09-16T18:52:28.841743+00:00"}
 {"created_at": "2026-09-16T19:57:52.730499+00:00", "title": "202609161957", "level": "DEEP", "hidden_message": "the date is a mask", "next_interval_hours": 24, "next_run_at": "2026-09-17T19:57:52.730343+00:00"}
+{"created_at": "2026-09-17T22:03:01.183529+00:00", "title": "202609172203", "level": "MEDIUM", "hidden_message": "do not decode the body first", "next_interval_hours": 24, "next_run_at": "2026-09-18T22:03:01.183367+00:00"}
