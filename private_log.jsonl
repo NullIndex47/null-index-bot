@@ -241,3 +241,4 @@
 {"created_at": "2026-09-28T21:47:40.183183+00:00", "title": "202609282147", "level": "HARD", "hidden_message": "fragment 1/5: the", "next_interval_hours": 24, "next_run_at": "2026-09-29T21:47:40.183052+00:00"}
 {"created_at": "2026-09-30T00:17:13.077654+00:00", "title": "202609300017", "level": "HARD", "hidden_message": "fragment 3/5: is", "next_interval_hours": 24, "next_run_at": "2026-10-01T00:17:13.077500+00:00"}
 {"created_at": "2026-10-01T01:58:52.058206+00:00", "title": "202610010158", "level": "DEEP", "hidden_message": "the broken checksum is the instruction", "next_interval_hours": 24, "next_run_at": "2026-10-02T01:58:52.058063+00:00"}
+{"created_at": "2026-10-02T08:20:55.505301+00:00", "title": "202610020820", "level": "VOID", "hidden_message": null, "next_interval_hours": 6, "next_run_at": "2026-10-02T14:20:55.505155+00:00"}
